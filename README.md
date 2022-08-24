@@ -1,5 +1,5 @@
 ### Hi 👋
 
-### Skills
+### 👨‍💻 Skills
 - Python
 - C

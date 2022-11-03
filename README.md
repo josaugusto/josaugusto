@@ -1,8 +1,8 @@
 ## Contato
 
 E-mail: augustoreal.santos@gmail.com
-linkedin: https://www.linkedin.com/in/jos%C3%A9-augusto-7bb06524b/
-Instagram: https://www.instagram.com/gustob_/
+linkedin: <https://www.linkedin.com/in/jos%C3%A9-augusto-7bb06524b/>
+Instagram: <https://www.instagram.com/gustob_/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josaugusto&show_icons=true&theme=cobalt)
 

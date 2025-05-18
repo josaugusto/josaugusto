@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre Mim
 
-Olá! Sou um entusiasta da programação, com interesse em **desenvolvimento de jogos** e ***aplicações Desktop**. Atualmente estudo e pratico com foco em:
+Olá! Sou um entusiasta da programação, com interesse em **desenvolvimento de jogos** e **aplicações Desktop**. Atualmente estudo e pratico com foco em:
 
 - Lua  
 - C / C++  

@@ -3,8 +3,6 @@
 💻 Information Systems Student  
 </p>
 
----
-
 ### Languages
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -15,12 +13,13 @@
 
 ### Frameworks
 
-![Love2D](https://img.shields.io/badge/Love2D-EA1E63?style=for-the-badge&logo=love&logoColor=white)
+![LÖVE2D](https://img.shields.io/badge/LÖVE2D-FA2C7B?style=for-the-badge&logoColor=white)
 
 ---
 
 ### Tools
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

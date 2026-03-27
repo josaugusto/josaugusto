@@ -3,7 +3,6 @@
 <p align="center">
 🎮 Desenvolvedor em formação | Focado em desenvolvimento de jogos  
 💻 Estudante de Sistemas de Informação  
-🚀 Apaixonado por programação e tecnologia
 </p>
 
 ---
@@ -23,7 +22,6 @@ Gosto de aprender na prática, criando projetos e explorando novas tecnologias.
 
 ### 🧩 Linguagens
 - Lua 
-- C
 
 ### 🎮 Desenvolvimento de Jogos
 - Love2D

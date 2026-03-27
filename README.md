@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou José Augusto</h1>
+<h1 align="center"></h1>
 
 <p align="center">
 🎮 Desenvolvedor em formação | Focado em desenvolvimento de jogos  

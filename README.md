@@ -8,11 +8,15 @@
 ### Linguagens de Programação
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ### Frameworks
 ![Love2D](https://img.shields.io/badge/Love2D-EA1E63?style=for-the-badge&logo=love&logoColor=white)
 
+---
 
 ### Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -22,9 +26,8 @@
 
 ---
 
-## 📫 Contato
-
-- GitHub: https://github.com/josaugusto
-- email: augustoreal.santos@gmail.com
+### Estudando
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---

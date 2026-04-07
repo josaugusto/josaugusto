@@ -1,5 +1,4 @@
 <p align="center">
-🎮 Game Developer in training |  
 💻 Information Systems Student  
 </p>
 
